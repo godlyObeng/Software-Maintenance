@@ -1,6 +1,0 @@
-module:FroggerGame
-com.classes
-com.classes.goal
-com.classes.media
-com.classes.obstacles
-com.classes.ui_controls
